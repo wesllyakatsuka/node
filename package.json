@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node",
+  "description": "Estudo da plataforma NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesllyakatsuka/node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongoDB",
+    "udp",
+    "crypto"
+  ],
+  "author": "Weslly AKatuka de Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesllyakatsuka/node/issues"
+  },
+  "homepage": "https://github.com/wesllyakatsuka/node#readme"
+}
